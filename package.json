@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A Vue component for QR code generation with `vue-weblineindia-qrcode`",
   "repository": "https://github.com/weblineindia/Vue-QRCode",
-  "homepage": "https://github.com/weblineindia/Vue-QRCode",
+  "homepage": "https://www.weblineindia.com/software-development-resources.html",
   "author": "Weblineindia",
   "license": "MIT",
   "main": "lib/cjs",
