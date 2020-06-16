@@ -23,7 +23,6 @@ A Vue.js component for QR code generation. Free for everyone, even use it for co
 --- | --- | --- | --- | --- | --- |
 Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ | 11 ✔ |
 
-[![Browser Matrix](https://saucelabs.com/open_sauce/build_matrix/axios.svg)](https://saucelabs.com/u/axios)
 
 ## Demo
 [![](qrcode.gif)](https://github.com/weblineindia/Vue-QRCode/qrcode.gif)
