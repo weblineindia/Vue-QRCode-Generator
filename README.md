@@ -11,7 +11,7 @@ A Vue.js component for QR code generation. Free for everyone, even use it for co
 - [Available Props](#available-props)
 - [Want to Contribute?](#want-to-contribute)
 - [Need Help / Support?](#need-help)
-- [Collection of Other Components](#online-demo-of-vuejs-qrcode-generator)
+- [Collection of Other Components](#collection-of-components)
 - [Changelog](#changelog)
 - [Credits](#credits)
 - [License](#license)
