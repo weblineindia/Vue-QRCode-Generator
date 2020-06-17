@@ -11,7 +11,7 @@ A Vue.js component for QR code generation. Free for everyone, even use it for co
 - [Available Props](#available-props)
 - [Want to Contribute?](#want-to-contribute)
 - [Need Help / Support?](#need-help)
-- [Online Demo](#online-demo-of-vuejs-qrcode-generator)
+- [Collection of Other Components](#online-demo-of-vuejs-qrcode-generator)
 - [Changelog](#changelog)
 - [Credits](#credits)
 - [License](#license)
@@ -92,9 +92,9 @@ We also provide a free, basic support for all users who want to use this VueJS Q
 
 -----
 
-## Online Demo of VueJS QRCode Generator
+## Collection of Components
 
-We have also hosted this code on our website for a quick DEMO. Please click here for the demo of [VueJS QRCode Generator](https://www.weblineindia.com/software-development-resources.html) online.
+We have built many other components and free resources for software development in various programming languages. Kindly click here to view our [Free Resources for Software Development](https://www.weblineindia.com/software-development-resources.html).
 
 ------
 
