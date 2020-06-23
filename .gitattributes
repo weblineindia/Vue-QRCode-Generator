@@ -3,3 +3,4 @@
 *.html linguist-detectable=false
 *.xml linguist-detectable=false
 *.typescript linguist-detectable=false
+*.TypeScript linguist-detectable=false
