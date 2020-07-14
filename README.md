@@ -1,6 +1,6 @@
 # Vue QRCode Generator
 
-A Vue.js component for QR code generation. Designed to create QRCode image for any text supplied to the library. Free for everyone, even use it for commercial purposes and on unlimited applications.
+A Vue.js component for QR code generation. Designed to create QR Code image for any text supplied to the library. Free for everyone, even use it for commercial purposes and on unlimited applications.
 
 ## Table of contents
 
